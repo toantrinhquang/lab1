@@ -22,6 +22,7 @@ public static void main(String[] args) {
  Scanner sc = new Scanner(System.in);
      System.out.println("Nhap mot so nguyen:");
      a = sc.nextInt();
+      
      System.out.println("Nhap mot so thuc:");
      f = sc.nextFloat();
      System.out.println("Nhap mot so double:");
